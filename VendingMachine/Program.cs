@@ -53,7 +53,7 @@
                         break;
 
                     default:
-                        Console.WriteLine("\nInvalid Option - Please try again!");
+                        Console.WriteLine("\nInvalid Option -- Please try again!");
                         break;
                 }
 
