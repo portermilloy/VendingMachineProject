@@ -18,6 +18,11 @@
                 Console.WriteLine("3.) Energy Drink");
                 Console.WriteLine("4.) Chips");
                 Console.WriteLine("5.) Gum");
+                Console.WriteLine("6.) Veggie Sticks");
+                Console.WriteLine("7.) Protine Shake");
+                Console.WriteLine("8.) Mushroom Jerky");
+                Console.WriteLine("9.) Rice Cakes");
+                Console.WriteLine("10.) Fruit Bar");
                 Console.WriteLine("0.) Exit");
                 Console.WriteLine("-----------------------------------");
                 Console.WriteLine();
