@@ -18,6 +18,10 @@
                 Console.WriteLine("3.) Energy Drink");
                 Console.WriteLine("4.) Chips");
                 Console.WriteLine("5.) Gum");
+                Console.WriteLine("6.) Tea");
+                Console.WriteLine("7.) Coffee");
+                Console.WriteLine("8.) Granola bars");
+                Console.WriteLine("9.) water");
                 Console.WriteLine("0.) Exit");
                 Console.WriteLine("-----------------------------------");
                 Console.WriteLine();
@@ -45,6 +49,18 @@
 
                     case 5:
                         Console.WriteLine("\nNow Vending a Package of Gum");
+                        break;
+                    case 6:
+                        Console.WriteLine("\nNow Vending a Bottle of Tea");
+                        break;
+                    case 7:
+                        Console.WriteLine("\nNow Vending a cup of coffee");
+                        break;
+                    case 8:
+                        Console.WriteLine("\nNow Vending a Granola bar");
+                        break;
+                    case 9:
+                        Console.WriteLine("\nNow Vending a bottle of water");
                         break;
 
                     case 0:
